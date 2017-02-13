@@ -1,0 +1,7 @@
+
+
+- ver 0.9 : perfomance...
+
+- Usage : LogCollector arg_1 arg_2 ...
+-> if you don't want to put args, operate default mode as logcat.
+-> if you wants to utilize another mode, put adb command. (ex : adb bugreport, then  ./LogColletor bugreport)
